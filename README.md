@@ -6,7 +6,7 @@
 
 您的文章必须以以下格式上传
 
-对纯文本文章：txt doc docx png jpg
+对纯文本文章：txt doc docx 
 
 对包含图片的文章：md doc docx png jpg zip`(注意：为了保证可读性，请不要使用.wps.rar的文件)`
 

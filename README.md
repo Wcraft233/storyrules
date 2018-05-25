@@ -9,6 +9,7 @@
 对纯文本文章：txt doc docx 
 
 对包含图片的文章：md doc docx png jpg zip`(注意：为了保证可读性，请不要使用.wps.rar的文件)`
+[这里有一份工具推荐（ONLY FOR Android）](https://github.com/Wcraft233/storyrules/blob/master/%E6%89%8B%E6%9C%BA%E7%AB%AF%E7%A0%81%E5%AD%97%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.md)
 
 #### 时间要求
 
